@@ -1,5 +1,5 @@
-Music Release
-=============
+Music Release (Notes)
+=====================
 
 *JJ van Zon, 2020-08*
 
@@ -98,7 +98,7 @@ Found independently:
 TODO
 ----
 
-### 2020-08-25 Brainstorm Publishing
+### 2020-08-25 TODO Release
 
 - [x] Releasing with EmuBands.
 - [x] EmuBands would like a photo.
@@ -111,9 +111,27 @@ TODO
   - [x] ~~Doubt: It might permit someone to re-release it, perhaps make a CD, perhaps make money off it it, that I do not receive. But so what? Making money wasn't really my goal and the music's originals would already be available more conveniently. I think I just should not worry about it. That would seem best. I just want to share my work freely, if anyone would be interested.~~
 - [x] Project files on GitHub.
   - [x] Changing name of project from "Publish Music 2020-08" to "JJs Music Release 2020-08" so the repository name would become "JJs-Music-Release-2020-08".
-- [ ] Posting on FaceBook, LinkedIn, Maybe Instagram and friend chat group.
+- [x] Clearing Google Drive trash can.
+- [x] Drafting up message for on Facebook for instance.
 - [ ] Waiting till it is ready at EmuBands.
 - [ ] Making GitHub repository public.
+- [ ] Posting on FaceBook, LinkedIn, Maybe Instagram and friend chat group.
+
+### 2020-08-26 Draft Message for Facebook etc.
+
+Hi. I am a bit nervous about this. I put some of my old songs on Spotify. I made them in the 90s. It was just to have something to do. It may not be of much interest to the general public, but at least they are online now.
+
+{link}
+
+I picked out 7 songs. Next to Spotify, they're also on Deezer and the iTunes store and others. A company called EmuBands put them there for me. It cost me about 65 euros. If the music would get listened to a lot, it is supposed to make me earn money, but we'll see. {smiley face}
+
+If anyone is interested, I also put my notes on GitHub about getting the songs online.
+
+{link}
+
+I included all the files I used in my project.
+
+Not sure if that is of anyone's interest, but maybe it might help you put your own music online, perhaps. {smiley face}
 
 
 Done
@@ -278,5 +296,5 @@ Maybe edit with Audacity. This may save me from going into trouble with Impulse 
   - The Bussel2 song was originally called TryOut4~~, which I might like better, because Bussel is a public place where I played it once.~~
 
 Bussel2 might not be a good first song.
-Desecration and Silent Madness might be switched between 2nd anf 3rd place.
+Desecration and Silent Madness might be switched between 2nd and 3rd place.
 O8V2 might go first.
