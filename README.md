@@ -108,7 +108,7 @@ TODO
   - [x] I could rewrite an MIT license.
   - [x] And then maybe publish the project files anyway.
   - [x] ~~Then ask people in my electronic network if they know how to more properly license it?~~
-  - [x] Or maybe stop at "deform MIT license" and let it go.
+  - [x] Or maybe stop after "rewrite MIT license" and let it go.
   - [x] ~~Doubt: It might permit someone to re-release it, perhaps make a CD, perhaps make money off it it, that I do not receive. But so what? Making money wasn't really my goal and the music's originals would already be available more conveniently. I think I just should not worry about it. That would seem best. I just want to share my work freely, if anyone would be interested.~~
 - [x] Project files on GitHub.
   - [x] Changing name of project from "Publish Music 2020-08" to "JJs Music Release 2020-08" so the repository name would become "JJs-Music-Release-2020-08".
