@@ -23,23 +23,22 @@ I would like it to not be too much hassle, since I might not be able to handle t
 Steps
 -----
 
-- [x] Song selection.
-- [x] Distributors research.
-- [x] Adapting songs.
-  - [x] Orienting in techniques
+- [x] Song selection
+- [x] Distributors research
+- [x] Orienting in techniques
   - [x] Audacity
   - [x] DosBox
   - [x] Impulse Tracker
+- [x] Adapting songs
   - [x] "Testag" song
   - [x] "Tryout5" song
   - [x] "O08V2" song
   - [x] "NostGoo2" song
   - [x] "Bussel2" song
   - [x] Remove silences at the end.
-- [x] Order of the songs.
+- [x] Order of the songs
 - [x] Create account at EmuBands.
 - [x] Last check if the sound is good.
-- [x] ~~Modifying file properties?~~
 - [ ] __Publish on EmuBands / Spotify / GitHub__
 
 
@@ -116,6 +115,9 @@ TODO
 - [x] Clearing Google Drive trash can.
 - [x] Drafting up message for on Facebook for instance.
 - [ ] Waiting till it is ready at EmuBands.
+- [ ] Posts and links:
+  - [ ] Spotify link somewhere at the top of this repository might be useful.
+  - [ ] Putting the post message inside the description of the GitHub repository, might make the repository more informative on its own.
 - [ ] Making GitHub repository public.
 - [ ] Posting on FaceBook, LinkedIn, Maybe Instagram and friend chat group.
 
@@ -123,7 +125,7 @@ TODO
 
 Hi. I am a bit nervous about this. I put some of my old songs on Spotify. It is electronic music. I made it in the 90s. It was just to have something to do. It may not be of much interest to the general public, but at least they are online now.
 
-DJayJ - OLDMUS~1
+OLDMUS~1 - DJayJ
 
 {link}
 
@@ -289,7 +291,7 @@ Maybe edit with Audacity. This may save me from going into trouble with Impulse 
 ### 2020-08-24 Done Adapting "Bussel2" Song
 
 - [x] Recording again in Impulse Tracker with 128 sample channels instead of 64.
-- [x] Clipping off silence at the end.
+- [x] Remove silence at the end.
 
 ### 2020-08-24 Done Album Details
 
