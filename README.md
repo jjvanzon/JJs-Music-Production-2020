@@ -13,7 +13,7 @@ Content/songs may be copied from an earlier project "The CD 2005".
 
 ### Costs
 
-It may not matter how good the music is. I do not need to make money from it or have it cost me any money. However, if there is money to be made, I might not want them to just take it.
+It may not matter how good the music is. I do not need to make money from it or have it cost me any money. However, if there is money to be made, I might want to collect it.
 
 ### Hassle
 
@@ -47,7 +47,7 @@ Information
 ### Names
 
 - Artist name: "DJayJ"
-- Album name: "OLDMUS~1"?
+- Album name: "OLDMUS~1"
 
 ### Songs
 
@@ -217,7 +217,7 @@ Possible steps:
 
 The song might be a bit funny / silly, but also I am inspired to start moving/dancing in the middle, so it may have some value there.
 
-Maybe edit with Audacity. This may save me from going into trouble with Impulse Tracker which may come with surpises.
+Maybe edit with Audacity. This may save me from going into trouble with Impulse Tracker which may come with surprises.
 
 - [x] Last 3 pattern repetitions fade out.
 - [x] An idea might be to repeat the whole thing twice.
@@ -255,7 +255,7 @@ Maybe edit with Audacity. This may save me from going into trouble with Impulse 
   - [x] Speed in Impulse Tracker 2.02 used to be 160.
   - [x] Thought to decrease it with 20% to 128.
   - [x] Seemed quite a bit slow.
-  - [x] Go in the midde: decrease with 10% to 144.
+  - [x] Go in the middle: decrease with 10% to 144.
   - [x] Command line to output to a file: "IT s7 L128 M44100"
   - [x] Trying a 5% speed decrease instead.
 - [x] Glitch: Last sounding of the sine wave seems to not cut off at the next pattern.
@@ -293,7 +293,7 @@ Maybe edit with Audacity. This may save me from going into trouble with Impulse 
 - Song names:
   - Might keep the original names without leading number or file extension.
   - Or use the song name from inside the Impulse Tracker file, if it exists.
-  - The Bussel2 song was originally called TryOut4~~, which I might like better, because Bussel is a public place where I played it once.~~
+  - The Bussel2 song was originally called TryOut4 ~~, which I might like better, because Bussel is a public place where I played it once.~~
 
 Bussel2 might not be a good first song.
 Desecration and Silent Madness might be switched between 2nd and 3rd place.
