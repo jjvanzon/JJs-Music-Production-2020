@@ -116,7 +116,7 @@ TODO
 - [x] Drafting up message for on Facebook for instance.
 - [ ] Waiting till it is ready at EmuBands.
 - [ ] Posts and links:
-  - [ ] Spotify link somewhere at the top of this repository might be useful.
+  - [ ] Spotify link somewhere at the top of this readme might be useful.
   - [ ] Putting the post message inside the description of the GitHub repository, might make the repository more informative on its own.
 - [ ] Making GitHub repository public.
 - [ ] Posting on FaceBook, LinkedIn, Maybe Instagram and friend chat group.
