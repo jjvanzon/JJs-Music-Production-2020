@@ -27,6 +27,7 @@ Steps
 - [x] Adapting songs.
   - [x] Orienting in techniques
   - [x] Audacity
+  - [x] DosBox
   - [x] Impulse Tracker
   - [x] "Testag" song
   - [x] "Tryout5" song
@@ -133,6 +134,7 @@ I included all the files I used in my project.
 
 Not sure if that is of anyone's interest, but maybe it might help you put your own music online, perhaps. {smiley face}
 
+JJ
 
 Done
 ----
