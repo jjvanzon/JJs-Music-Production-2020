@@ -1,10 +1,10 @@
-Music Release (Notes)
-=====================
-
-*JJ van Zon, 2020-08*
+JJs Music Release 2020-08
+=========================
 
 Introduction
 ------------
+
+These would be my notes on putting some of my music online.
 
 ### Songs
 
