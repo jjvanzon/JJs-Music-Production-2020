@@ -19,6 +19,7 @@ It may not matter how good the music is. I do not need to make money from it or 
 
 I would like it to not be too much hassle, since I might not be able to handle that.
 
+
 Steps
 -----
 
@@ -135,6 +136,7 @@ I included all the files I used in my project.
 Not sure if that is of anyone's interest, but maybe it might help you put your own music online, perhaps. {smiley face}
 
 JJ
+
 
 Done
 ----
