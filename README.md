@@ -38,10 +38,8 @@ Steps
 - [x] Create account at EmuBands.
 - [x] Last check if the sound is good.
 - [x] ~~Modifying file properties?~~
-- [ ] Placing it online
-  - [x] With EmuBands
-  - [ ] __Project files on GitHub.__
-  - [ ] Post on FaceBook, LinkedIn, Maybe Instagram and friend chat group.
+- [ ] __Publish on EmuBands / Spotify / GitHub__
+
 
 Information
 -----------
@@ -96,23 +94,27 @@ Found independently:
 - Copyright law on sampling: <https://libraryguides.missouri.edu/copyrightlaw/sampling>
 - GitHub for things other than code: <https://www.quora.com/Can-I-use-GitHub-for-things-other-than-code?share=1>
 
+
 TODO
 ----
 
 ### 2020-08-25 Brainstorm Publishing
 
+- [x] Releasing with EmuBands.
 - [x] EmuBands would like a photo.
-- [ ] Waiting till it is ready at EmuBands.
-- [ ] Project files on GitHub.
-  - [ ] Changing name of project from "Publish Music 2020-08" to "JJs Music Release 2020-08" so the repository name would become "JJs-Music-Release-2020-08".
-- [ ] License project files.
-  - [ ] I cannot find what kind of license would be ok for a music production project.
-  - [ ] I could rewrite an MIT license.
-  - [ ] And then publish the project files anyway.
+- [x] Licensing project files.
+  - [x] I cannot seem to find what kind of license would be ok for a music production project.
+  - [x] I could rewrite an MIT license.
+  - [x] And then maybe publish the project files anyway.
   - [x] ~~Then ask people in my electronic network if they know how to more properly license it?~~
   - [x] Or maybe stop at "deform MIT license" and let it go.
   - [x] ~~Doubt: It might permit someone to re-release it, perhaps make a CD, perhaps make money off it it, that I do not receive. But so what? Making money wasn't really my goal and the music's originals would already be available more conveniently. I think I just should not worry about it. That would seem best. I just want to share my work freely, if anyone would be interested.~~
-- [ ] Post on FaceBook, LinkedIn, Maybe Instagram and friend chat group.
+- [x] Project files on GitHub.
+  - [x] Changing name of project from "Publish Music 2020-08" to "JJs Music Release 2020-08" so the repository name would become "JJs-Music-Release-2020-08".
+- [ ] Posting on FaceBook, LinkedIn, Maybe Instagram and friend chat group.
+- [ ] Waiting till it is ready at EmuBands.
+- [ ] Making GitHub repository public.
+
 
 Done
 ----
@@ -149,7 +151,7 @@ Adapting the songs may cost me much energy, but it may also turn out to be somet
 - [x] Recording again in Impulse Tracker with 128 sample channels instead of 64.
 - [x] Clipping off silence at the end.
 
-### 2020-08-24 TODO Adapting "NostGoo2" Song
+### 2020-08-24 Done Adapting "NostGoo2" Song
 
 - [x] It seemed clipped and reduced in volume, but turned out to be clipping effect.
 - [x] Re-recorded with Impulse Tracker with 128 sample channels instead of 64.
