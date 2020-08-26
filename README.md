@@ -123,7 +123,7 @@ TODO
 
 ### 2020-08-26 Draft Message for Facebook etc.
 
-Hi. I am a bit nervous about this. I put some of my old songs on Spotify. It is electronic music. I made it in the 90s. It was just to have something to do. It may not be of much interest to the general public, but at least they are online now.
+Hi. I am a bit nervous about this. I put some of my old songs on Spotify. It is electronic music. I made it in the 90's. It was just to have something to do. It may not be of much interest to the general public, but at least they are online now.
 
 OLDMUS~1 - DJayJ
 
