@@ -121,19 +121,20 @@ TODO
 
 ### 2020-08-26 Draft Message for Facebook etc.
 
-Hi. I am a bit nervous about this. I put some of my old songs on Spotify. I made them in the 90s. It was just to have something to do. It may not be of much interest to the general public, but at least they are online now.
+Hi. I am a bit nervous about this. I put some of my old songs on Spotify. It is electronic music. I made it in the 90s. It was just to have something to do. It may not be of much interest to the general public, but at least they are online now.
+
+DJayJ - OLDMUS~1
 
 {link}
 
 I picked out 7 songs. Next to Spotify, they're also on Deezer and the iTunes store and others. A company called EmuBands put them there for me. It cost me about 65 euros. If the music would get listened to a lot, it is supposed to make me earn money, but we'll see. {smiley face}
 
-If anyone is interested, I also put my notes on GitHub about getting the songs online.
+If anyone is interested, I have also put my notes on GitHub about getting the songs online:
 
-{link}
+https://github.com/jjvanzon/JJs-Music-Release-2020-08
 
 I included all the files I used in my project.
-
-Not sure if that is of anyone's interest, but maybe it might help you put your own music online, perhaps. {smiley face}
+Not sure if anyone's interested, but maybe it might help you put your own music online, perhaps. {smiley face}
 
 JJ
 
@@ -293,7 +294,7 @@ Maybe edit with Audacity. This may save me from going into trouble with Impulse 
 ### 2020-08-24 Done Album Details
 
 - Artist name: "DJayJ"
-- Album name: "OLDMUS~1"?
+- Album name: "OLDMUS~1"
 - Song names:
   - Might keep the original names without leading number or file extension.
   - Or use the song name from inside the Impulse Tracker file, if it exists.
