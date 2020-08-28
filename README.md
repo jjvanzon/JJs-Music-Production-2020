@@ -6,6 +6,12 @@ Introduction
 
 These would be my notes on putting some of my music online.
 
+These are the links to the songs:
+
+Spotify: <https://open.spotify.com/album/1p9IeYN5QNzzDAeZZTfkFz>
+Deezer: <https://www.deezer.com/en/album/169760312>
+iTunes: <https://itunes.apple.com/gb/album/id1529321181?app=itunes>
+
 ### Songs
 
 I would like to release 7 or 8 songs I made in the 90's. Just to share it online.
@@ -114,9 +120,11 @@ TODO
   - [x] Changing name of project from "Publish Music 2020-08" to "JJs Music Release 2020-08" so the repository name would become "JJs-Music-Release-2020-08".
 - [x] Clearing Google Drive trash can.
 - [x] Drafting up message for on Facebook for instance.
-- [ ] Waiting till it is ready at EmuBands.
+- [ ] Promo code for 10% commission
+  - [ ] __Ask EmuBands if I can mention is on my social posts later and other details.__
+- [ ] __Waiting till it is ready at EmuBands and the stores.__
 - [ ] Posts and links:
-  - [ ] Spotify link somewhere at the top of this readme might be useful.
+  - [x] Spotify link somewhere at the top of this readme might be useful.
   - [ ] Putting the post message inside the description of the GitHub repository, might make the repository more informative on its own.
 - [ ] Making GitHub repository public.
 - [ ] Posting on FaceBook, LinkedIn, Maybe Instagram and friend chat group.
@@ -125,9 +133,11 @@ TODO
 
 Hi. I am a bit nervous about this. I put some of my old songs on Spotify. It is electronic music. I made it in the 90's. It was just to have something to do. It may not be of much interest to the general public, but at least they are online now.
 
-OLDMUS~1 - DJayJ
+DJayJ - OLDMUS~1
 
-{link}
+Spotify: https://open.spotify.com/album/1p9IeYN5QNzzDAeZZTfkFz
+Deezer: https://www.deezer.com/en/album/169760312
+iTunes: https://itunes.apple.com/gb/album/id1529321181?app=itunes
 
 I picked out 7 songs. Next to Spotify, they're also on Deezer and the iTunes store and others. A company called EmuBands put them there for me. It cost me about 65 euros. If the music would get listened to a lot, it is supposed to make me earn money, but we'll see. {smiley face}
 
@@ -136,7 +146,8 @@ If anyone is interested, I have also put my notes on GitHub about getting the so
 https://github.com/jjvanzon/JJs-Music-Release-2020-08
 
 I included all the files I used in my project.
-Not sure if anyone's interested, but maybe it might help you put your own music online, perhaps. {smiley face}
+Not sure if anyone's interested, but maybe it might help you put your own music online. {smiley face}
+If you might choose to use EmuBands, you could use the following promo code: {...}
 
 JJ
 
