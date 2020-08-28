@@ -100,11 +100,11 @@ Spotify recommended:
 
 - Spotify how to: <https://artists.spotify.com/faq/popular#how-do-i-get-my-music-on-spotify>
 - Spotify how to: <https://artists.spotify.com/directory/distribution>
-- Distributor [DistroKid](https://distrokid.com/spotify/?utm_source=s4aDirectory)
-- Distributor [CD Baby](https://cdbaby.com/cd-baby-cost.aspx)
-- Distributor [Record Union](https://recordunion.com/pricing.html)
-- Distributor [EmuBands pricing](https://www.emubands.com/simple-pricing/)
-- Distributor [EmuBands terms and conditions](https://www.emubands.com/terms-conditions/)
+- Distributor: [DistroKid](https://distrokid.com/spotify/?utm_source=s4aDirectory)
+- Distributor: [CD Baby](https://cdbaby.com/cd-baby-cost.aspx)
+- Distributor: [Record Union](https://recordunion.com/pricing.html)
+- Distributor: [EmuBands pricing](https://www.emubands.com/simple-pricing/)
+- Distributor: [EmuBands terms and conditions](https://www.emubands.com/terms-conditions/)
 
 Found independently:
 
