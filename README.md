@@ -86,13 +86,13 @@ Information
 
 (Price is for minimally 7 or 8 songs.)
 
-| Name             | One-Off Fee? | Multi Platform? | Price    | Royalty | Hassle |
-|------------------|--------------|-----------------|----------|---------|--------|
-| EmuBands         |      X       |        X        |    € 65  |    100% |        |
-| ~~CD Baby~~      |      X       |        X        | € 29/69? | Unclear |  : (   |
-| ~~Record Union~~ |              |        X        |          |         |        |
-| ~~RouteNote~~    | (10 annual)  |        X        |    € 30  |    100% |        |
-| ~~DistroKid~~    |              |                 |          |         |        |
+| Name             |  One-Off Fee?  | Multi Platform? |    Price | Royalty | Hassle |
+|------------------|----------------|-----------------|----------|---------|--------|
+| EmuBands         |     Yes        |        X        |    € 65  |    100% |        |
+| ~~CD Baby~~      |     Yes        |        X        | € 29/69? | Unclear |  : (   |
+| ~~Record Union~~ |     No         |        X        |          |         |        |
+| ~~RouteNote~~    | No (10 annual) |        X        |    € 30  |    100% |        |
+| ~~DistroKid~~    |     No         |                 |          |         |        |
 
 ### Links
 
