@@ -193,7 +193,7 @@ Possible steps:
   - [x] Taking similar steps as above.
   - [x] But reducing total volume of both copies to 83.3%
 
-### 2020-08-23 Done Adapting Song "Laughing Baby" ("Tryout5"): Longer?
+### 2020-08-23 Done Adapting Song "Laughing Baby" ("Tryout5"): Make Longer?
 
 The song might be a bit funny / silly, but also I am inspired to start moving/dancing in the middle, so it may have some value there.
 
