@@ -5,19 +5,21 @@ JJ's Music Release 2020-08
 Introduction
 ------------
 
-Hi. I am a bit nervous about this. I put some of my old songs on Spotify. It is electronic music. I made it in the 90's. It was just to have something to do. It may not be of much interest to the general public, but at least they are online now.
+Hi. I am a bit nervous about this. I put some of my old songs on Spotify. It is electronic music. I made them in the 90's. It was just to have something to do. It may not be of much interest to the general public, but at least they are online now.
 
 DJayJ - OLDMUS~1
 
-Spotify: <https://open.spotify.com/album/1p9IeYN5QNzzDAeZZTfkFz>
-Deezer: <https://www.deezer.com/en/album/169760312>
-iTunes: <https://itunes.apple.com/gb/album/id1529321181?app=itunes>
+Spotify: https://open.spotify.com/album/1p9IeYN5QNzzDAeZZTfkFz
+Deezer: https://www.deezer.com/en/album/169760312
+iTunes: https://itunes.apple.com/gb/album/id1529321181?app=itunes
 
 I picked out 7 songs. Next to Spotify, they're also on Deezer and the iTunes store and others. A company called EmuBands put them there for me. It cost me about 65 euros. If the music would get listened to a lot, it is supposed to make me earn money, but we'll see. :D
 
+-----
+
 If anyone is interested, I have also put my notes on GitHub about getting the songs online:
 
-<https://github.com/jjvanzon/JJs-Music-Release-2020-08>
+https://github.com/jjvanzon/JJs-Music-Release-2020-08
 
 I included all the files I used in my project.
 Not sure if anyone's interested, but maybe it might help you put your own music online. :)
@@ -68,7 +70,7 @@ Steps
 - [x] Order of the songs
 - [x] Create account at EmuBands.
 - [x] Last check if the sound is good.
-- [ ] __Publish on EmuBands / Spotify / GitHub__
+- [x] Publish on EmuBands / Spotify / GitHub
 
 
 Information
@@ -125,10 +127,10 @@ Found independently:
 - GitHub for things other than code: <https://www.quora.com/Can-I-use-GitHub-for-things-other-than-code?share=1>
 
 
-TODO
+Done
 ----
 
-### 2020-08-25 TODO Release
+### 2020-08-25 Done Release
 
 - [x] Releasing with EmuBands.
 - [x] EmuBands would like a photo.
@@ -150,11 +152,7 @@ TODO
   - [x] Spotify link somewhere at the top of this readme might be useful.
   - [x] Putting the post message inside the description of the GitHub repository, might make the repository more informative on its own.
 - [x] Making GitHub repository public.
-- [ ] Posting on FaceBook, LinkedIn, Maybe Instagram and friend chat group.
-
-
-Done
-----
+- [x] Posting on FaceBook, LinkedIn and friend chat group.
 
 ### 2020-08-19 Done Researching
 
