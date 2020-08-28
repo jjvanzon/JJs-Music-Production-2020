@@ -1,6 +1,10 @@
 JJ's Music Release 2020-08
 =========================
 
+
+Introduction
+------------
+
 Hi. I am a bit nervous about this. I put some of my old songs on Spotify. It is electronic music. I made it in the 90's. It was just to have something to do. It may not be of much interest to the general public, but at least they are online now.
 
 DJayJ - OLDMUS~1
@@ -26,8 +30,8 @@ It would cost you nothing, but may help me earn cash :D
 JJ
 
 
-Introduction
-------------
+Goal
+----
 
 These would be my notes on putting some of my music online.
 
