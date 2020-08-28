@@ -8,6 +8,8 @@ These would be my notes on putting some of my music online.
 
 These are the links to the songs:
 
+DJayJ - OLDMUS~1
+
 Spotify: <https://open.spotify.com/album/1p9IeYN5QNzzDAeZZTfkFz>
 Deezer: <https://www.deezer.com/en/album/169760312>
 iTunes: <https://itunes.apple.com/gb/album/id1529321181?app=itunes>
@@ -120,9 +122,9 @@ TODO
   - [x] Changing name of project from "Publish Music 2020-08" to "JJs Music Release 2020-08" so the repository name would become "JJs-Music-Release-2020-08".
 - [x] Clearing Google Drive trash can.
 - [x] Drafting up message for on Facebook for instance.
-- [ ] Promo code for 10% commission
-  - [ ] __Ask EmuBands if I can mention is on my social posts later and other details.__
-- [ ] __Waiting till it is ready at EmuBands and the stores.__
+- [x] Promo code for 10% commission
+  - [x] Ask EmuBands if I can mention is on my social posts later and other details.
+- [x] Waiting till it is ready at EmuBands and the stores.
 - [ ] Posts and links:
   - [x] Spotify link somewhere at the top of this readme might be useful.
   - [ ] Putting the post message inside the description of the GitHub repository, might make the repository more informative on its own.
@@ -139,15 +141,19 @@ Spotify: https://open.spotify.com/album/1p9IeYN5QNzzDAeZZTfkFz
 Deezer: https://www.deezer.com/en/album/169760312
 iTunes: https://itunes.apple.com/gb/album/id1529321181?app=itunes
 
-I picked out 7 songs. Next to Spotify, they're also on Deezer and the iTunes store and others. A company called EmuBands put them there for me. It cost me about 65 euros. If the music would get listened to a lot, it is supposed to make me earn money, but we'll see. {smiley face}
+I picked out 7 songs. Next to Spotify, they're also on Deezer and the iTunes store and others. A company called EmuBands put them there for me. It cost me about 65 euros. If the music would get listened to a lot, it is supposed to make me earn money, but we'll see. :D
 
 If anyone is interested, I have also put my notes on GitHub about getting the songs online:
 
 https://github.com/jjvanzon/JJs-Music-Release-2020-08
 
 I included all the files I used in my project.
-Not sure if anyone's interested, but maybe it might help you put your own music online. {smiley face}
-If you might choose to use EmuBands, you could use the following promo code: {...}
+Not sure if anyone's interested, but maybe it might help you put your own music online. :)
+If you might choose to use EmuBands, you could use the following promo code:
+
+  NXS7VERB
+
+It would cost you nothing, but may help me earn cash :D
 
 JJ
 
