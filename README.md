@@ -84,7 +84,7 @@ Information
 
 ### Distributors
 
-(Price is for minimally 7 or 8 songs.)
+(Price is for minimally 7 songs.)
 
 | Name             |  One-Off Fee?  | Multi Platform? |    Price | Royalty | Hassle |
 |------------------|----------------|-----------------|----------|---------|--------|
