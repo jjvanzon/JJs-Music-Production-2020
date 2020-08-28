@@ -146,14 +146,11 @@ TODO
 - [x] Promo code for 10% commission
   - [x] Ask EmuBands if I can mention is on my social posts later and other details.
 - [x] Waiting till it is ready at EmuBands and the stores.
-- [ ] Posts and links:
+- [x] Posts and links:
   - [x] Spotify link somewhere at the top of this readme might be useful.
-  - [ ] Putting the post message inside the description of the GitHub repository, might make the repository more informative on its own.
-- [ ] Making GitHub repository public.
+  - [x] Putting the post message inside the description of the GitHub repository, might make the repository more informative on its own.
+- [x] Making GitHub repository public.
 - [ ] Posting on FaceBook, LinkedIn, Maybe Instagram and friend chat group.
-
-### 2020-08-26 Draft Message for Facebook etc.
-
 
 
 Done
