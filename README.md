@@ -100,16 +100,16 @@ Spotify recommended:
 
 - Spotify how to: <https://artists.spotify.com/faq/popular#how-do-i-get-my-music-on-spotify>
 - Spotify how to: <https://artists.spotify.com/directory/distribution>
-- [DistroKid](https://distrokid.com/spotify/?utm_source=s4aDirectory)
-- [CD Baby](https://cdbaby.com/cd-baby-cost.aspx)
-- [Record Union](https://recordunion.com/pricing.html)
-- [EmuBands pricing](https://www.emubands.com/simple-pricing/)
-- [EmuBands terms and conditions](https://www.emubands.com/terms-conditions/)
+- Distributor [DistroKid](https://distrokid.com/spotify/?utm_source=s4aDirectory)
+- Distributor [CD Baby](https://cdbaby.com/cd-baby-cost.aspx)
+- Distributor [Record Union](https://recordunion.com/pricing.html)
+- Distributor [EmuBands pricing](https://www.emubands.com/simple-pricing/)
+- Distributor [EmuBands terms and conditions](https://www.emubands.com/terms-conditions/)
 
 Found independently:
 
 - How to: <https://www.instructables.com/id/How-I-published-my-original-music-on-Spotify-for-F/>
-- [RouteNote](https://www.routenote.com/partner)
+- Distributor [RouteNote](https://www.routenote.com/partner)
 - Copyright law on sampling: <https://libraryguides.missouri.edu/copyrightlaw/sampling>
 - GitHub for things other than code: <https://www.quora.com/Can-I-use-GitHub-for-things-other-than-code?share=1>
 
