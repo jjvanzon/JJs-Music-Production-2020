@@ -1,7 +1,6 @@
 JJ's Music Release 2020-08
 =========================
 
-
 Introduction
 ------------
 
@@ -129,30 +128,6 @@ Found independently:
 
 Done
 ----
-
-### 2020-08-25 Done Release
-
-- [x] Releasing with EmuBands.
-- [x] EmuBands would like a photo.
-- [x] Licensing project files.
-  - [x] I cannot seem to find what kind of license would be ok for a music production project.
-  - [x] I could rewrite an MIT license.
-  - [x] And then maybe publish the project files anyway.
-  - [x] ~~Then ask people in my electronic network if they know how to more properly license it?~~
-  - [x] Or maybe stop after "rewrite MIT license" and let it go.
-  - [x] ~~Doubt: It might permit someone to re-release it, perhaps make a CD, perhaps make money off it it, that I do not receive. But so what? Making money wasn't really my goal and the music's originals would already be available more conveniently. I think I just should not worry about it. That would seem best. I just want to share my work freely, if anyone would be interested.~~
-- [x] Project files on GitHub.
-  - [x] Changing name of project from "Publish Music 2020-08" to "JJs Music Release 2020-08" so the repository name would become "JJs-Music-Release-2020-08".
-- [x] Clearing Google Drive trash can.
-- [x] Drafting up message for on Facebook for instance.
-- [x] Promo code for 10% commission
-  - [x] Ask EmuBands if I can mention is on my social posts later and other details.
-- [x] Waiting till it is ready at EmuBands and the stores.
-- [x] Posts and links:
-  - [x] Spotify link somewhere at the top of this readme might be useful.
-  - [x] Putting the post message inside the description of the GitHub repository, might make the repository more informative on its own.
-- [x] Making GitHub repository public.
-- [x] Posting on FaceBook, LinkedIn and friend chat group.
 
 ### 2020-08-19 Done Researching
 
@@ -315,3 +290,27 @@ Maybe edit with Audacity. This may save me from going into trouble with Impulse 
 Bussel2 might not be a good first song.
 Desecration and Silent Madness might be switched between 2nd and 3rd place.
 O8V2 might go first.
+
+### 2020-08-25 Done Release
+
+- [x] Releasing with EmuBands.
+- [x] EmuBands would like a photo.
+- [x] Licensing project files.
+  - [x] I cannot seem to find what kind of license would be ok for a music production project.
+  - [x] I could rewrite an MIT license.
+  - [x] And then maybe publish the project files anyway.
+  - [x] ~~Then ask people in my electronic network if they know how to more properly license it?~~
+  - [x] Or maybe stop after "rewrite MIT license" and let it go.
+  - [x] ~~Doubt: It might permit someone to re-release it, perhaps make a CD, perhaps make money off it it, that I do not receive. But so what? Making money wasn't really my goal and the music's originals would already be available more conveniently. I think I just should not worry about it. That would seem best. I just want to share my work freely, if anyone would be interested.~~
+- [x] Project files on GitHub.
+  - [x] Changing name of project from "Publish Music 2020-08" to "JJs Music Release 2020-08" so the repository name would become "JJs-Music-Release-2020-08".
+- [x] Clearing Google Drive trash can.
+- [x] Drafting up message for on Facebook for instance.
+- [x] Promo code for 10% commission
+  - [x] Ask EmuBands if I can mention is on my social posts later and other details.
+- [x] Waiting till it is ready at EmuBands and the stores.
+- [x] Posts and links:
+  - [x] Spotify link somewhere at the top of this readme might be useful.
+  - [x] Putting the post message inside the description of the GitHub repository, might make the repository more informative on its own.
+- [x] Making GitHub repository public.
+- [x] Posting on FaceBook, LinkedIn and friend chat group.
