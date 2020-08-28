@@ -56,7 +56,7 @@ Steps
   - [x] Remove silences at the end.
 - [x] Order of the songs
 - [x] Create account at EmuBands.
-- [x] Last check if the sound is good.
+- [x] Last check if the sound is ok.
 - [x] Publish on EmuBands / Spotify / GitHub
 
 
@@ -167,7 +167,7 @@ Adapting the songs may cost me much energy, but it may also turn out to be somet
 - [x] Bussel2
   - Recording again in Impulse Tracker with 128 sample channels instead of 64.
 
-### 2020-08-22 Done Adapt Song "Testag": Make More Mono
+### 2020-08-22 Done Adapting Song "Testag": Make More Mono
 
 The harsh stereo separation makes it difficult to bear for my hearing.
 
@@ -193,7 +193,7 @@ Possible steps:
   - [x] Taking similar steps as above.
   - [x] But reducing total volume of both copies to 83.3%
 
-### 2020-08-23 Done Adapt Song "Tryout5": Longer?
+### 2020-08-23 Done Adapting Song "Laughing Baby" ("Tryout5"): Longer?
 
 The song might be a bit funny / silly, but also I am inspired to start moving/dancing in the middle, so it may have some value there.
 
@@ -229,7 +229,7 @@ Maybe edit with Audacity. This may save me from going into trouble with Impulse 
   - [x] Might increase volume in Audacity.
 - [x] The last piece of fade out is quite jittery. Perhaps edit that to something more clean.
 
-### 2020-08-23 Done Adapting "O08V2" Song: Slower?
+### 2020-08-23 Done Adapting Song "O08V2": Slower?
 
 - [x] Slowed down
   - [x] Speed in Impulse Tracker 2.02 used to be 160.
@@ -244,7 +244,7 @@ Maybe edit with Audacity. This may save me from going into trouble with Impulse 
   - [x] Percentage for volume maximization: a little below 101.546
   - [x] Probably not worth it.
 
-### 2020-08-24 Done Adapting "NostGoo2" Song
+### 2020-08-24 Done Adapting Song "Nostalgia" ("NostGoo2")
 
 - [x] It seemed clipped and reduced in volume, but turned out to be clipping effect.
 - [x] Re-recorded with Impulse Tracker with 128 sample channels instead of 64.
@@ -261,7 +261,7 @@ Maybe edit with Audacity. This may save me from going into trouble with Impulse 
   - Clipping level: -14.89
   - Parameter controls: both 50
 
-### 2020-08-24 Done Adapting "Bussel2" Song
+### 2020-08-24 Done Adapting Song "Bussel2"
 
 - [x] Recording again in Impulse Tracker with 128 sample channels instead of 64.
 - [x] Remove silence at the end.
@@ -291,7 +291,7 @@ O8V2 might go first.
   - [x] Or maybe stop after "rewrite MIT license" and let it go.
   - [x] ~~Doubt: It might permit someone to re-release it, perhaps make a CD, perhaps make money off it it, that I do not receive. But so what? Making money wasn't really my goal and the music's originals would already be available more conveniently. I think I just should not worry about it. That would seem best. I just want to share my work freely, if anyone would be interested.~~
 - [x] Project files on GitHub.
-  - [x] Changing name of project from "Publish Music 2020-08" to "JJs Music Release 2020-08" so the repository name would become "JJs-Music-Release-2020-08".
+  - [x] Changing name of project from "Publish Music 2020-08" to "JJs Music Release 2020-08" so the repository name could become "JJs-Music-Release-2020-08".
 - [x] Clearing Google Drive trash can.
 - [x] Drafting up message for on Facebook for instance.
 - [x] Promo code for 10% commission
