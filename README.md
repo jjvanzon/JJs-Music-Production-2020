@@ -16,19 +16,13 @@ I picked out 7 songs. Next to Spotify, they're also on Deezer and the iTunes sto
 
 -----
 
-If anyone is interested, I have also put my notes on GitHub about getting the songs online: https://github.com/jjvanzon/JJs-Music-Release-2020-08 I included all the files I used in my project. Not sure if anyone's interested, but maybe it might help you put your own music online. :) If you might choose to use EmuBands, you could use the following promo code:
-
+If you might choose to use EmuBands, you could use the following promo code:
   NXS7VERB
-
 It would cost you nothing, but may help me earn cash :D
-
-JJ
 
 
 Goal
 ----
-
-These would be my notes on putting some of my music online.
 
 ### Songs
 
