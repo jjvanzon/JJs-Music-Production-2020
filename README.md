@@ -109,7 +109,7 @@ Spotify recommended:
 Found independently:
 
 - How to: <https://www.instructables.com/id/How-I-published-my-original-music-on-Spotify-for-F/>
-- Distributor [RouteNote](https://www.routenote.com/partner)
+- Distributor: [RouteNote](https://www.routenote.com/partner)
 - Copyright law on sampling: <https://libraryguides.missouri.edu/copyrightlaw/sampling>
 - GitHub for things other than code: <https://www.quora.com/Can-I-use-GitHub-for-things-other-than-code?share=1>
 
