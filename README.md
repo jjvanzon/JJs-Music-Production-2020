@@ -251,7 +251,7 @@ Maybe edit with Audacity. This may save me from going into trouble with Impulse 
 - [x] Command line to output to a file: "IT s7 L128 M44100"
 - [x] Somehow turned out too fast: Imported as 32-bit by accident.
 - [x] Use Volume Maximizer to determine volume factor for maximization.
-- [x] Volume factor might be slightly under 102.17.
+- [x] Volume factor might be slightly under 102.17%
 - [x] Apparently I used distortion from a program called Sound Forge, so maybe not easily reproducible.
 - [x] Trying to increase volume inside Impulse Tracker by 2.5x to cause distortion effect, but it did not.
   - [x] Original volume: 31
@@ -271,7 +271,7 @@ Maybe edit with Audacity. This may save me from going into trouble with Impulse 
 - Artist name: "DJayJ"
 - Album name: "OLDMUS~1"
 - Song names:
-  - Might keep the original names without leading number or file extension.
+  - Might keep the original file names without leading number or file extension.
   - Or use the song name from inside the Impulse Tracker file, if it exists.
   - The Bussel2 song was originally called TryOut4 ~~, which I might like better, because Bussel is a public place where I played it once.~~
 
