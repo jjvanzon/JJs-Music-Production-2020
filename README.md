@@ -1,18 +1,35 @@
 JJ's Music Release 2020-08
 =========================
 
-Introduction
-------------
-
-These would be my notes on putting some of my music online.
-
-These are the links to the songs:
+Hi. I am a bit nervous about this. I put some of my old songs on Spotify. It is electronic music. I made it in the 90's. It was just to have something to do. It may not be of much interest to the general public, but at least they are online now.
 
 DJayJ - OLDMUS~1
 
 Spotify: <https://open.spotify.com/album/1p9IeYN5QNzzDAeZZTfkFz>
 Deezer: <https://www.deezer.com/en/album/169760312>
 iTunes: <https://itunes.apple.com/gb/album/id1529321181?app=itunes>
+
+I picked out 7 songs. Next to Spotify, they're also on Deezer and the iTunes store and others. A company called EmuBands put them there for me. It cost me about 65 euros. If the music would get listened to a lot, it is supposed to make me earn money, but we'll see. :D
+
+If anyone is interested, I have also put my notes on GitHub about getting the songs online:
+
+<https://github.com/jjvanzon/JJs-Music-Release-2020-08>
+
+I included all the files I used in my project.
+Not sure if anyone's interested, but maybe it might help you put your own music online. :)
+If you might choose to use EmuBands, you could use the following promo code:
+
+  NXS7VERB
+
+It would cost you nothing, but may help me earn cash :D
+
+JJ
+
+
+Introduction
+------------
+
+These would be my notes on putting some of my music online.
 
 ### Songs
 
@@ -133,29 +150,6 @@ TODO
 
 ### 2020-08-26 Draft Message for Facebook etc.
 
-Hi. I am a bit nervous about this. I put some of my old songs on Spotify. It is electronic music. I made it in the 90's. It was just to have something to do. It may not be of much interest to the general public, but at least they are online now.
-
-DJayJ - OLDMUS~1
-
-Spotify: https://open.spotify.com/album/1p9IeYN5QNzzDAeZZTfkFz
-Deezer: https://www.deezer.com/en/album/169760312
-iTunes: https://itunes.apple.com/gb/album/id1529321181?app=itunes
-
-I picked out 7 songs. Next to Spotify, they're also on Deezer and the iTunes store and others. A company called EmuBands put them there for me. It cost me about 65 euros. If the music would get listened to a lot, it is supposed to make me earn money, but we'll see. :D
-
-If anyone is interested, I have also put my notes on GitHub about getting the songs online:
-
-https://github.com/jjvanzon/JJs-Music-Release-2020-08
-
-I included all the files I used in my project.
-Not sure if anyone's interested, but maybe it might help you put your own music online. :)
-If you might choose to use EmuBands, you could use the following promo code:
-
-  NXS7VERB
-
-It would cost you nothing, but may help me earn cash :D
-
-JJ
 
 
 Done
