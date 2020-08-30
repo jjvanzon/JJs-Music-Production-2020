@@ -44,16 +44,16 @@ Steps
 - [x] Song selection
 - [x] Distributors research
 - [x] Orienting in techniques
-  - [x] Audacity
-  - [x] DosBox
-  - [x] Impulse Tracker
+    - [x] Audacity
+    - [x] DosBox
+    - [x] Impulse Tracker
 - [x] Adapting songs
-  - [x] "Testag" song
-  - [x] "Tryout5" song
-  - [x] "O08V2" song
-  - [x] "NostGoo2" song
-  - [x] "Bussel2" song
-  - [x] Remove silences at the end.
+    - [x] "Testag" song
+    - [x] "Tryout5" song
+    - [x] "O08V2" song
+    - [x] "NostGoo2" song
+    - [x] "Bussel2" song
+    - [x] Remove silences at the end.
 - [x] Order of the songs
 - [x] Create account at EmuBands.
 - [x] Last check if the sound is ok.
@@ -170,14 +170,14 @@ Might research the following criteria for each distributor:
 Adapting the songs may cost me much energy, but it may also turn out to be something nice to keep busy with.
 
 - [x] "Testag": More mono
-  - Maybe convert to mono or make 'more mono'. The harsh stereo separation makes is difficult to bear for my hearing.
+    - Maybe convert to mono or make 'more mono'. The harsh stereo separation makes is difficult to bear for my hearing.
 - [x] "Tryout5": Longer
-  - Make longer by repetition?
+    - Make longer by repetition?
 - [x] "O08V2": Slower
-  - Might want to make it a bit slower.
+    - Might want to make it a bit slower.
 - [x] "NostGoo2"
 - [x] Bussel2
-  - Recording again in Impulse Tracker with 128 sample channels instead of 64.
+    - Recording again in Impulse Tracker with 128 sample channels instead of 64.
 
 ### 2020-08-22 Done Adapting Song "Testag": Make More Mono
 
@@ -186,24 +186,24 @@ The harsh stereo separation makes it difficult to bear for my hearing.
 Possible steps:
 
 - [x] Trying mixing 50% of opposite channel into each channel.
-  - [x] Using Audacity.
-  - [x] Making a copy, switching channels.
-  - [x] Using Audacity's Effect Adjustable Fade:
-  - [x] Reducing volume to 50% on the copy with switched channels.
-  - [x] Reducing total volume of both wavs to 66%
-    - (I have 150% volume now. So a factor of 1.5. I may need multiply all by 1 / 1.5 = 66%)
-  - [x] Mixing together the two copies.
-    - [x] Using Audacity
-    - [x] Tracks: Add New: Stereo Track
-    - [x] Paste
-    - [x] Select both tracks
-    - [x] Tracks: Mix: Mix and Render
+    - [x] Using Audacity.
+    - [x] Making a copy, switching channels.
+    - [x] Using Audacity's Effect Adjustable Fade:
+    - [x] Reducing volume to 50% on the copy with switched channels.
+    - [x] Reducing total volume of both wavs to 66%
+        - (I have 150% volume now. So a factor of 1.5. I may need multiply all by 1 / 1.5 = 66%)
+    - [x] Mixing together the two copies.
+        - [x] Using Audacity
+        - [x] Tracks: Add New: Stereo Track
+        - [x] Paste
+        - [x] Select both tracks
+        - [x] Tracks: Mix: Mix and Render
 - [x] Listening to result
 - [x] Listening to part of original.
 - [x] I would like to try to make the stereo more pronounced.
 - [x] Trying mixing 20% of opposite channel into each channel, instead of 50%.
-  - [x] Taking similar steps as above.
-  - [x] But reducing total volume of both copies to 83.3%
+    - [x] Taking similar steps as above.
+    - [x] But reducing total volume of both copies to 83.3%
 
 ### 2020-08-23 Done Adapting Song "Laughing Baby" ("Tryout5"): Make Longer?
 
@@ -226,35 +226,35 @@ Maybe edit with Audacity. This may save me from going into trouble with Impulse 
 - [x] It seems I do want more now than previously, so it may become less easily done by just editing the wav in Audacity.
 - [x] Paused for a while.
 - [x] Switched to Impulse Tracker
-  - [x] Adapted song in Impulse Tracker 2.14.
-  - [x] Trying to output to raw or wav.
-  - [x] But it output mono and too high a volume.
-  - [x] Apparently I had better use Impulse Tracker 2.02 instead of 2.14. (I might conclude that from documentation from my earlier project "The CD 2005".)
-  - [x] For converting an Impulse Tracker 2.14 file back to Impulse Tracker 2.02, it seems possible to save it in Impulse Tracker 2.14 as file type "2.xx".
-  - [x] The command line for Impulse Tracker 2.02 to output to a file seems to be "IT s7 L128 M44100" (Derived from a file "D:\Google Drive\Program Files Dos\MUSIC\IT\IT 2.02 Disk Writer" opened in Notepad++).
+    - [x] Adapted song in Impulse Tracker 2.14.
+    - [x] Trying to output to raw or wav.
+    - [x] But it output mono and too high a volume.
+    - [x] Apparently I had better use Impulse Tracker 2.02 instead of 2.14. (I might conclude that from documentation from my earlier project "The CD 2005".)
+    - [x] For converting an Impulse Tracker 2.14 file back to Impulse Tracker 2.02, it seems possible to save it in Impulse Tracker 2.14 as file type "2.xx".
+    - [x] The command line for Impulse Tracker 2.02 to output to a file seems to be "IT s7 L128 M44100" (Derived from a file "D:\Google Drive\Program Files Dos\MUSIC\IT\IT 2.02 Disk Writer" opened in Notepad++).
 - [x] Trying to maximize the volume.
-  - [x] The volume is sort of halfened in the output. Perhaps maximize in Impulse Tracker.
-  - [x] Used a Volume Maximizer program I made in 2005 for determining a factor by which volume might be increased to maximize the volume.
-  - [x] The volume might be increased with a factor of a little under 1.39958.
-  - [x] Percentage ~= 139.9
-  - [x] Volumes do not seem to be increasable any further in Impulse Tracker 2.02.
-  - [x] Might increase volume in Audacity.
+    - [x] The volume is sort of halfened in the output. Perhaps maximize in Impulse Tracker.
+    - [x] Used a Volume Maximizer program I made in 2005 for determining a factor by which volume might be increased to maximize the volume.
+    - [x] The volume might be increased with a factor of a little under 1.39958.
+    - [x] Percentage ~= 139.9
+    - [x] Volumes do not seem to be increasable any further in Impulse Tracker 2.02.
+    - [x] Might increase volume in Audacity.
 - [x] The last piece of fade out is quite jittery. Perhaps edit that to something more clean.
 
 ### 2020-08-23 Done Adapting Song "O08V2": Slower?
 
 - [x] Slowed down
-  - [x] Speed in Impulse Tracker 2.02 used to be 160.
-  - [x] Thought to decrease it with 20% to 128.
-  - [x] Seemed quite a bit slow.
-  - [x] Go in the middle: decrease with 10% to 144.
-  - [x] Command line to output to a file: "IT s7 L128 M44100"
-  - [x] Trying a 5% speed decrease instead.
+    - [x] Speed in Impulse Tracker 2.02 used to be 160.
+    - [x] Thought to decrease it with 20% to 128.
+    - [x] Seemed quite a bit slow.
+    - [x] Go in the middle: decrease with 10% to 144.
+    - [x] Command line to output to a file: "IT s7 L128 M44100"
+    - [x] Trying a 5% speed decrease instead.
 - [x] Glitch: Last sounding of the sine wave seems to not cut off at the next pattern.
 - [x] ~~Maximizing volume?~~
-  - [x] Factor for volume maximization: a little below 1.01546
-  - [x] Percentage for volume maximization: a little below 101.546
-  - [x] Probably not worth it.
+    - [x] Factor for volume maximization: a little below 1.01546
+    - [x] Percentage for volume maximization: a little below 101.546
+    - [x] Probably not worth it.
 
 ### 2020-08-24 Done Adapting Song "Nostalgia" ("NostGoo2")
 
@@ -266,12 +266,12 @@ Maybe edit with Audacity. This may save me from going into trouble with Impulse 
 - [x] Volume factor might be slightly under 102.17%
 - [x] Apparently I used distortion from a program called Sound Forge, so maybe not easily reproducible.
 - [x] Trying to increase volume inside Impulse Tracker by 2.5x to cause distortion effect, but it did not.
-  - [x] Original volume: 31
-  - [x] New volume: 81
+    - [x] Original volume: 31
+    - [x] New volume: 81
 - [x] Trying a distortion effect from Audacity:
-  - Distortion type: Hard Clipping
-  - Clipping level: -14.89
-  - Parameter controls: both 50
+    - Distortion type: Hard Clipping
+    - Clipping level: -14.89
+    - Parameter controls: both 50
 
 ### 2020-08-24 Done Adapting Song "Bussel2"
 
@@ -283,9 +283,9 @@ Maybe edit with Audacity. This may save me from going into trouble with Impulse 
 - Artist name: "DJayJ"
 - Album name: "OLDMUS~1"
 - Song names:
-  - Might keep the original file names without leading number or file extension.
-  - Or use the song name from inside the Impulse Tracker file, if it exists.
-  - The Bussel2 song was originally called TryOut4 ~~, which I might like better, because Bussel is a public place where I played it once.~~
+    - Might keep the original file names without leading number or file extension.
+    - Or use the song name from inside the Impulse Tracker file, if it exists.
+    - The Bussel2 song was originally called TryOut4 ~~, which I might like better, because Bussel is a public place where I played it once.~~
 
 Bussel2 might not be a good first song.
 Desecration and Silent Madness might be switched between 2nd and 3rd place.
@@ -296,21 +296,21 @@ O8V2 might go first.
 - [x] Releasing with EmuBands.
 - [x] EmuBands would like a photo.
 - [x] Licensing project files.
-  - [x] I cannot seem to find what kind of license would be ok for a music production project.
-  - [x] I could rewrite an MIT license.
-  - [x] And then maybe publish the project files anyway.
-  - [x] ~~Then ask people in my electronic network if they know how to more properly license it?~~
-  - [x] Or maybe stop after "rewrite MIT license" and let it go.
-  - [x] ~~Doubt: It might permit someone to re-release it, perhaps make a CD, perhaps make money off it it, that I do not receive. But so what? Making money wasn't really my goal and the music's originals would already be available more conveniently. I think I just should not worry about it. That would seem best. I just want to share my work freely, if anyone would be interested.~~
+    - [x] I cannot seem to find what kind of license would be ok for a music production project.
+    - [x] I could rewrite an MIT license.
+    - [x] And then maybe publish the project files anyway.
+    - [x] ~~Then ask people in my electronic network if they know how to more properly license it?~~
+    - [x] Or maybe stop after "rewrite MIT license" and let it go.
+    - [x] ~~Doubt: It might permit someone to re-release it, perhaps make a CD, perhaps make money off it it, that I do not receive. But so what? Making money wasn't really my goal and the music's originals would already be available more conveniently. I think I just should not worry about it. That would seem best. I just want to share my work freely, if anyone would be interested.~~
 - [x] Project files on GitHub.
-  - [x] Changing name of project from "Publish Music 2020-08" to "JJs Music Release 2020-08" so the repository name could become "JJs-Music-Release-2020-08".
+    - [x] Changing name of project from "Publish Music 2020-08" to "JJs Music Release 2020-08" so the repository name could become "JJs-Music-Release-2020-08".
 - [x] Clearing Google Drive trash can.
 - [x] Drafting up message for on Facebook for instance.
 - [x] Promo code for 10% commission
-  - [x] Ask EmuBands if I can mention is on my social posts later and other details.
+    - [x] Ask EmuBands if I can mention is on my social posts later and other details.
 - [x] Waiting till it is ready at EmuBands and the stores.
 - [x] Posts and links:
-  - [x] Spotify link somewhere at the top of this readme might be useful.
-  - [x] Putting the post message inside the description of the GitHub repository, might make the repository more informative on its own.
+    - [x] Spotify link somewhere at the top of this readme might be useful.
+    - [x] Putting the post message inside the description of the GitHub repository, might make the repository more informative on its own.
 - [x] Making GitHub repository public.
 - [x] Posting on FaceBook, LinkedIn and friend chat group.
