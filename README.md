@@ -58,7 +58,7 @@ Steps
 - [x] Create account at EmuBands.
 - [x] Last check if the sound is ok.
 - [x] Publish on EmuBands / Spotify / GitHub
-
+- [ ] Remaining details (see below)
 
 Information
 -----------
@@ -112,6 +112,18 @@ Found independently:
 - Distributor: [RouteNote](https://www.routenote.com/partner)
 - Copyright law on sampling: <https://libraryguides.missouri.edu/copyrightlaw/sampling>
 - GitHub for things other than code: <https://www.quora.com/Can-I-use-GitHub-for-things-other-than-code?share=1>
+
+
+TODO
+----
+
+### 2020-08-30 TODO Remaining Details
+
+- [x] EmuBands might link to a Spotify artist when I supply: Spotify Artist URI and Spotify Album URI.
+    - [x] Spotify Artist URI: spotify:artist:46AyONQpbI30MnhrRuhX1o
+    - [x] Spotify Album URI: spotify:album:1p9IeYN5QNzzDAeZZTfkFz
+- [x] I might ask what this Mastering thing is mentioned on their site.__
+- [ ] Waiting for a response from EmuBands.
 
 
 Done
