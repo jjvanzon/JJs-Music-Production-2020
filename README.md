@@ -122,7 +122,7 @@ TODO
 - [x] EmuBands might link to a Spotify artist when I supply: Spotify Artist URI and Spotify Album URI.
     - [x] Spotify Artist URI: spotify:artist:46AyONQpbI30MnhrRuhX1o
     - [x] Spotify Album URI: spotify:album:1p9IeYN5QNzzDAeZZTfkFz
-- [x] I might ask what this Mastering thing is mentioned on their site.__
+- [x] I might ask what this Mastering thing is mentioned on their site.
 - [ ] Waiting for a response from EmuBands.
 
 
