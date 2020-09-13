@@ -115,20 +115,16 @@ Found independently:
 - Full text of "Impulse Tracker II User Manual": https://archive.org/stream/ImpulseTrackerIIUserManual/Impulse%20Tracker%20II%20User%20Manual_djvu.txt
 
 
-TODO
+Done
 ----
 
-### 2020-08-30 TODO Remaining Details
+### 2020-08-30 Done Remaining Details
 
 - [x] EmuBands might link to a Spotify artist when I supply: Spotify Artist URI and Spotify Album URI.
     - [x] Spotify Artist URI: spotify:artist:46AyONQpbI30MnhrRuhX1o
     - [x] Spotify Album URI: spotify:album:1p9IeYN5QNzzDAeZZTfkFz
 - [x] I might ask what this Mastering thing is mentioned on their site.
-- [ ] Waiting for a response from EmuBands.
-
-
-Done
-----
+- [x] Waiting for a response from EmuBands.
 
 ### 2020-08-19 Done Researching
 
