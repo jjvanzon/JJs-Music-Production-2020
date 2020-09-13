@@ -98,8 +98,8 @@ Information
 
 Spotify recommended:
 
-- Spotify how to: <https://artists.spotify.com/faq/popular#how-do-i-get-my-music-on-spotify>
-- Spotify how to: <https://artists.spotify.com/directory/distribution>
+- Spotify how to: https://artists.spotify.com/faq/popular#how-do-i-get-my-music-on-spotify
+- Spotify how to: https://artists.spotify.com/directory/distribution
 - Distributor: [DistroKid](https://distrokid.com/spotify/?utm_source=s4aDirectory)
 - Distributor: [CD Baby](https://cdbaby.com/cd-baby-cost.aspx)
 - Distributor: [Record Union](https://recordunion.com/pricing.html)
@@ -108,10 +108,11 @@ Spotify recommended:
 
 Found independently:
 
-- How to: <https://www.instructables.com/id/How-I-published-my-original-music-on-Spotify-for-F/>
+- How to: https://www.instructables.com/id/How-I-published-my-original-music-on-Spotify-for-F/
 - Distributor: [RouteNote](https://www.routenote.com/partner)
-- Copyright law on sampling: <https://libraryguides.missouri.edu/copyrightlaw/sampling>
-- GitHub for things other than code: <https://www.quora.com/Can-I-use-GitHub-for-things-other-than-code?share=1>
+- Copyright law on sampling: https://libraryguides.missouri.edu/copyrightlaw/sampling
+- GitHub for things other than code: https://www.quora.com/Can-I-use-GitHub-for-things-other-than-code?share=1
+- Full text of "Impulse Tracker II User Manual": https://archive.org/stream/ImpulseTrackerIIUserManual/Impulse%20Tracker%20II%20User%20Manual_djvu.txt
 
 
 TODO
